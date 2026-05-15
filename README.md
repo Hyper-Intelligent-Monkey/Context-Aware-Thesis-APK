@@ -42,9 +42,9 @@ On Android 13 and newer, the system automatically restricts Accessibility Servic
 
 ## 📖 How to Use
 Once the setup is complete:
-1. Ensure the **Floating Window** is visible on your screen.
+1. Ensure the **Floating Window** is visible on your screen, Accessiblity Services is enabled, and connected to a network.
 2. Navigate to any third-party application you wish to interact with.
-3. Use the system's interface to begin your automated task.
+3. Input the navigational query or application feature you wish to locate.
 
 ---
 
