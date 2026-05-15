@@ -20,7 +20,7 @@ Because this is not an official app on the Play Store, Google Play Protect may b
 4. Turn off **"Scan apps with Play Protect."**
 
 ### Step 2: Install the APK
-1. Download the `ThesisSystem.apk` to your device: [Download ThesisSystem.apk](https://github.com/Hyper-Intelligent-Monkey/Context-Aware-Thesis-APK/raw/main/ContextualAssistant.apk)
+1. Download the `ThesisSystem.apk` to your device: [Download ContextualAssistant.apk](https://github.com/Hyper-Intelligent-Monkey/Context-Aware-Thesis-APK/raw/main/ContextualAssistant.apk)
 2. Tap the file to install. If prompted, **"Allow installation from unknown sources"** for your browser or file manager.
 
 ### Step 3: Unlocking "Restricted Settings" (Crucial)
